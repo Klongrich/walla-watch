@@ -8,6 +8,8 @@ const Example = [
   {
     "Does": "This",
     "Make": "My",
+    "LinkedIn": "NULL",
+    ""
   }
 ];
 
